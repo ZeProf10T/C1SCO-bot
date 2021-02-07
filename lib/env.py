@@ -16,10 +16,11 @@ EASTER_EGGS = {
     "khamlichi" : "Linux c'est le sang",
     "alain" : "Admirez mon magnifique Dr0n3",
     "gaugue" : "Admirez mon magnifique Dr0n3",
-    "Cracotteosaure" : "Je manges mes cracottes et j'attend que passe mes études",
-    "Léo" : "Super Major is HERE !",
-    "Arnaud" : "I'm a bitch and a boss, I'm a shine like gloss",
-    "Michel" : "Rend ma clé privée wsh"
+    "cracotteosaure" : "Je manges mes cracottes et j'attend que passe mes études",
+    "leo" : "Super Major is HERE !",
+    "léo" : "Super Major is HERE !",
+    "arnaud" : "I'm a bitch and a boss, I'm a shine like gloss",
+    "michel" : "Rend ma clé privée wsh"
 }
 EMOJI_TO_ROLES = {
     "❤️" : "2015",
