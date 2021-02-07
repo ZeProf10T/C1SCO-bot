@@ -8,7 +8,7 @@ from datetime import datetime
 async def on_message(message):
     if message.author == client.user:
         return
-    
+
 
     #############
     # COMMANDES #
@@ -21,10 +21,10 @@ async def on_message(message):
         mois = datetime.now().month
         annee = datetime.now().year
         await message.channel.send(f"Nous sommes le : {jour}/{mois}/{annee}")
-  
+
     # Obtenir l'heure (.heure)
     if message.content.startswith('.heure'):
-        heure = datetime.now().hour
+        heure = datetime.now().hour + 1 # Décallage horaire d'une heure
         minute = datetime.now().minute
         await message.channel.send(f"Il est : {heure}H{minute}")
 
@@ -43,5 +43,3 @@ async def on_message(message):
     for key, value in EASTER_EGGS.items():
         if contenu.find(key) != -1:
             await message.channel.send(value)
-
-    

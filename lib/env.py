@@ -1,4 +1,4 @@
-MESSAGE_ROLE_REACTION = 805518181082333214
+MESSAGE_ROLE_REACTION = 808093027213770762
 EASTER_EGGS = {
     "ping" : "PONG !",
     "thierry" : "Thierry ? C'est le boss en fait !",
@@ -16,7 +16,9 @@ EASTER_EGGS = {
     "khamlichi" : "Linux c'est le sang",
     "alain" : "Admirez mon magnifique Dr0n3",
     "gaugue" : "Admirez mon magnifique Dr0n3",
-
+    "Cracotteosaure" : "Je manges mes cracottes et j'attend que passe mes études",
+    "Léo" : "Super Major is HERE !",
+    "Arnaud" : "I'm a bitch and a boss, I'm a shine like gloss",
 }
 EMOJI_TO_ROLES = {
     "❤️" : "2015",
