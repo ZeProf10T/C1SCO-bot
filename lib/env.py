@@ -19,6 +19,7 @@ EASTER_EGGS = {
     "Cracotteosaure" : "Je manges mes cracottes et j'attend que passe mes études",
     "Léo" : "Super Major is HERE !",
     "Arnaud" : "I'm a bitch and a boss, I'm a shine like gloss",
+    "Michel" : "Rend ma clé privée wsh"
 }
 EMOJI_TO_ROLES = {
     "❤️" : "2015",
